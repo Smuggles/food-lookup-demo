@@ -1,5 +1,5 @@
 {
-  "name": "lookup-server",
+  "name": "server",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
@@ -23,5 +23,17 @@
     "eslint-plugin-import": "2.2.0",
     "eslint-plugin-jsx-a11y": "4.0.0",
     "eslint-plugin-react": "6.9.0"
-  }
+  },
+  "description": "[![TravisCI](https://travis-ci.org/fullstackreact/food-lookup-demo.svg?branch=master)](https://travis-ci.org/fullstackreact/food-lookup-demo)\r [![Dolphins](https://d17oy1vhnax1f7.cloudfront.net/items/3A1B470B1O2h0e0j1L47/dolphins.svg)](https://www.fullstackreact.com)",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smuggles/SmugglesBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smuggles/SmugglesBlog/issues"
+  },
+  "homepage": "https://github.com/Smuggles/SmugglesBlog#readme"
 }
